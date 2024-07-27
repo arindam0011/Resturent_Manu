@@ -4,7 +4,6 @@ const manueContainer = document.getElementById('manue_container');
 async function getManue() {
    let response = await fetch('https://raw.githubusercontent.com/saksham-accio/f2_contest_3/main/food.json');
    let data = await response.json();
-   console.log(data);
    return data;
 }
 
@@ -35,4 +34,13 @@ const seeAll = document.getElementById('seeAll');
 seeAll.addEventListener('click', () => {
     window.location.href = 'seeAll.html';
 })
+setTimeout(() => {
+    let confirmation = confirm("Do you like to order of our choices?");
+    console.log(confirmation);
+    if(confirmation){
+        window.location.href = 'seeAll.html';
+    }
+}, 3000)
+
+
 });
