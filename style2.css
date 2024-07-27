@@ -48,7 +48,7 @@ body {
     text-align: left !important;
 }
 
-#Q-links a{
+#Q-links>li a{
     text-decoration: none;
     color: white;
 }
@@ -196,6 +196,7 @@ body {
         outline: none;
         margin-inline: 10px;
         border-radius: 5px;
+        padding-right: 70px;
 }
 #total{
     width: 15%;
