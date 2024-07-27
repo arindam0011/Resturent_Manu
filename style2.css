@@ -197,7 +197,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: right;
-    width: 100%;
+    width: 80%;
     height: 15%;
     background-color: rgb(20, 20, 20);
 }
