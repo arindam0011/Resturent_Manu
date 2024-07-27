@@ -108,8 +108,8 @@ body {
     margin-inline: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
-    gap: 5px;
+    justify-content: space-between;
+    gap: 20px;
     text-wrap: nowrap;
     overflow: hidden !important;
     overflow-y: auto !important;
@@ -118,7 +118,7 @@ body {
     opacity: 0.5;
 }
 .card{
-    width:30%;
+    width:31%;
     height: auto;
     background-color: rgb(33, 33, 33) !important;
 }
