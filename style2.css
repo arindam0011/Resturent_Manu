@@ -214,7 +214,7 @@ body {
     outline: none;
     margin-inline: 10px;
     border-radius: 5px;
-    padding-right: 70px;
+    margin-right: 70px;
 }
 
 #total {
