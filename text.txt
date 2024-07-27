@@ -1,0 +1,13 @@
+<div class="card">
+            <img class="card_img"src="Logo.png" alt="">
+            <div class="card-contains d-flex justify-content-between">
+                <div class="Item_detalis">
+                    <p class="item-name">sdfdfdfd</p>
+                    <span class="item_spna dolar">$</span><span class=" item_spna item-price">1512122</span><span class="item_spna">/-</span>
+                </div>
+                <div class="add" >
+                    <i class="add-Icon fa-thin fa-plus"></i>
+                </div>
+            </div>
+
+        </div>
