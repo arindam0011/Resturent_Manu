@@ -43,6 +43,7 @@ body {
 }
 #Q-links li{
     margin-bottom: 5px; 
+    padding-bottom: 8px;
     padding-left: 5px; 
     text-align: left !important;
 }
