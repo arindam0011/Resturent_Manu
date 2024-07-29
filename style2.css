@@ -112,7 +112,7 @@ body {
 
 #manue_container {
     min-width: 100%;
-    min-height: 65%;
+    height: 65%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
