@@ -111,8 +111,8 @@ body {
 }
 
 #manue_container {
-    width: 100%;
-    height: 65%;
+    min-width: 100%;
+    min-height: 65%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
