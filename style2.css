@@ -27,31 +27,34 @@ body {
     background-color: rgb(20, 20, 20);
 }
 
-#nav_img{
+#nav_img {
     width: 50%;
     margin-inline: auto;
 }
 
-.nav{
+.nav {
     border-bottom: 2px solid rgb(27, 26, 26);
     text-align: center;
 }
-#Q-links{
+
+#Q-links {
     width: 75%;
     margin: auto;
     font-size: 16px;
 }
-#Q-links li{
-    margin-bottom: 5px; 
+
+#Q-links li {
+    margin-bottom: 5px;
     padding-bottom: 8px;
-    padding-left: 5px; 
+    padding-left: 5px;
     text-align: left !important;
 }
 
-#Q-links a{
+#Q-links a {
     text-decoration: none;
     color: white;
 }
+
 #search_nav {
     background-color: rgb(31, 30, 30);
     height: 70px;
@@ -128,7 +131,7 @@ body {
 
 .card {
     width: 31%;
-    height: 230px;
+    height: auto;
     background-color: rgb(33, 33, 33) !important;
 }
 
